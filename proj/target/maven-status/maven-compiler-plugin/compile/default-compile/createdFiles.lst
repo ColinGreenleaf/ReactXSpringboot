@@ -1,0 +1,8 @@
+com/dev/proj/model/Event.class
+com/dev/proj/ProjApplication.class
+com/dev/proj/model/GroupRepository.class
+com/dev/proj/Initializer.class
+com/dev/proj/model/Event$EventBuilder.class
+com/dev/proj/web/GroupController.class
+com/dev/proj/model/User.class
+com/dev/proj/model/Group.class
